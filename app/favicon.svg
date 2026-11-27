@@ -1,0 +1,5 @@
+<!-- 中国数据图谱的站点图标：一枚朱红方印，中间一个白色的「统」字，与页眉的品牌印记呼应。 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="#b3543f"/>
+  <text x="32" y="44" font-size="34" text-anchor="middle" fill="#fff7ec" font-family="serif" font-weight="700">统</text>
+</svg>
